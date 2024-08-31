@@ -1,0 +1,6 @@
+#+title: Some other note
+#+filetags: :repro:
+#+date: [2024-08-31 Sat 13:24]
+#+identifier: 20240831T132406
+
+Some other note that links to [[denote:20240831T132345][the first one]].
