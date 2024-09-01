@@ -3,4 +3,6 @@
 #+date: [2024-08-31 Sat 13:24]
 #+identifier: 20240831T132406
 
-Some other note that links to [[denote:20240831T132345][the first one]].
+A `denote:` link to [[denote:20240831T132345][the first note]].
+
+A `file:` link to [[file:20240831T132345--some-note__repro.org][the first note]].
